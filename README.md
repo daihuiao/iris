@@ -1,4 +1,4 @@
-# Transformers are Sample Efficient World Models (IRIS)123
+# Transformers are Sample Efficient World Models (IRIS)1234
 
 [Transformers are Sample Efficient World Models](https://arxiv.org/abs/2209.00588) <br>
 [Vincent Micheli](https://vmicheli.github.io)\*, [Eloi Alonso](https://eloialonso.github.io)\*, [François Fleuret](https://fleuret.org/francois/) <br>
